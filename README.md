@@ -22,7 +22,7 @@ This project is a web application that retrieves personal details of bank custom
 
 1. Clone the repository:
     ```sh
-    https://github.com/Devgarg1302/personal_info.git
+    git clone https://github.com/Devgarg1302/personal_info.git
     cd personal-info
     ```
 
